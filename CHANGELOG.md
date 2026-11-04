@@ -8,6 +8,14 @@ Conventional Commits. Earlier entries follow
 [Keep a Changelog](https://keepachangelog.com/). This project adheres to
 [Semantic Versioning](https://semver.org/).
 
+## [0.2.18](https://github.com/hybroai/a2a-adapter/compare/v0.2.17...v0.2.18) (2026-11-04)
+
+
+### Bug Fixes
+
+* **deepseek-harness:** name the uv tool, pipx and pip install commands ([3fe624c](https://github.com/hybroai/a2a-adapter/commit/3fe624c1a0500816486481bab0afe025b7f6dc9f))
+* **deepseek-harness:** report a wrong dsh_path without install advice ([324482f](https://github.com/hybroai/a2a-adapter/commit/324482f2e337e2105270c2723c0f0f7efe947cb4))
+
 ## [0.2.17] - 2026-11-03
 
 ### Added
